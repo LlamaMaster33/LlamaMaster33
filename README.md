@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on code for my FRC team
-- 🌱 I’m currently learning how to code using robot java
+- 🌱 I’m currently learning how to code using java
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with learning java
 - 💬 Ask me about ...
 - 📫 How to reach me: Email me at LlamaMaster33@gmail.com
 - 😄 Pronouns: He / Him / His
