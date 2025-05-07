@@ -24,11 +24,11 @@ I'm currently building toward a portfolio of technical projects focused on **spa
 ---
 
 ### Featured Projects
- > [2338 Qualscout](https://github.com/Team2338/QualScout)
- > [2338 Gearscout-2025](https://github.com/Team2338/GearScoutCollection2025)
- > [2338 Gearscout-2024](https://github.com/Team2338/GearScout2024)
- > [2338 Gearscout-2023](https://github.com/Team2338/GearScout2023)
- > [2338 Team-Website](https://github.com/Team2338/team-site)
+ > [2338 Qualscout](https://github.com/Team2338/QualScout) \n
+ > [2338 Gearscout-2025](https://github.com/Team2338/GearScoutCollection2025) \n
+ > [2338 Gearscout-2024](https://github.com/Team2338/GearScout2024) \n
+ > [2338 Gearscout-2023](https://github.com/Team2338/GearScout2023) \n
+ > [2338 Team-Website](https://github.com/Team2338/team-site) \n
 
 ---
 
