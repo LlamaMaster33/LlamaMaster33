@@ -43,7 +43,7 @@ I'm currently building toward a portfolio of technical projects focused on **spa
 
 <p align="center">
   <img src="https://count.getloli.com/@LlamaMaster33?name=LlamaMaster33&theme=original-new&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=0" alt="Profile View Count"/>
-  <br><sub><i>You're logged in now, aren't you></i></sub>
+  <br><sub><i>You're logged in now, aren't you</i></sub>
 </p>
 
 ---
