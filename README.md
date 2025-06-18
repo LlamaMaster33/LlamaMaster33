@@ -15,9 +15,13 @@
 I'm a student aiming for a possible future in **Computational Astrophysics**, I have a passion for anime, programming, and celestial body simulations.
 
 **Languages & Tools**
-- JavaScript (React)
+- JavaScript
+- TypeScript
 - Python
 - Lua
+
+- React
+- Vite
 
 I'm currently building toward a portfolio of technical projects focused on **space, simulation, and app development**
 
