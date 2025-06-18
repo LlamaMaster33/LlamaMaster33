@@ -19,7 +19,7 @@ I'm a student aiming for a possible future in **Computational Astrophysics**, I 
 - TypeScript
 - Python
 - Lua
-/br
+</br>
 - React
 - Vite
 
